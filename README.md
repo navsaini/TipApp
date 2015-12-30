@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories (It takes a couple of seconds to get to the actual app):
 
 <a href="http://imgur.com/5tiuNbT"><img src="http://i.imgur.com/5tiuNbT.gif" title="source: imgur.com" /></a>
 
