@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories (It takes a couple of seconds to get to the actual app):
 
-<a href="http://imgur.com/WCkntf0"><img src="http://imgur.com/WCkntf0.gif" title="source: imgur.com" /></a>
+<a href="http://imgur.com/WCkntf0"><img src="http://i.imgur.com/WCkntf0.gif?1" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
